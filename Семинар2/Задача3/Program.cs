@@ -1,5 +1,5 @@
 ﻿void Weekend (int day){
-int dayoff = day % 7;
+int dayoff = Math.Abs(day) % 7;
 
     if (dayoff == 6){
     Console.WriteLine("Да, это суббота!");
