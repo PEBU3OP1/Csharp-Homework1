@@ -4,7 +4,7 @@ int min1 = 0;
 int max = 0;
 int max1 = 0;
 
-async void method ( int chislo)
+void method ( int chislo)
 {
         if (min == 0)
             {
@@ -37,17 +37,16 @@ async void method ( int chislo)
         if (chislo < min)
         {
                 
-                min = chislo;
-                     
+            min = chislo;       
             if(min1 >= a)
-                {
-                min1 = a;
-                }
+            {
+              min1 = a;
+            }
         }
 
 
-        if (min1 == min){
-
+        if (min1 == min)
+        {
             min1 = chislo;
         }
         
@@ -62,21 +61,18 @@ async void method ( int chislo)
         
 
 
-        if (max1 == max){
-
-            max1 = chislo;
-        }
+        
 
         int b = max;
 
         if (chislo > max)
-            {
-                
-                max = chislo;
+        {             
+            max = chislo;
                      
-         if( max1 <= b){
+            if( max1 <= b)
+           {
              max1 = b;
-        }
+           }
         }
 
         if (max1 == max){
@@ -84,6 +80,13 @@ async void method ( int chislo)
             max1 = chislo;
         }
 
+        if (chislo < max)
+        {
+            if(max1 <= chislo && chislo <= b)
+                {
+                max1 = chislo;
+                }
+        }
 
 
 }

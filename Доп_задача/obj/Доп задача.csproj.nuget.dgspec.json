@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sevak\\OneDrive\\Рабочий стол\\GeekBrains\\Семинары\\С#\\Доп задача\\Доп задача.csproj": {}
+    "C:\\Users\\sevak\\OneDrive\\Рабочий стол\\GeekBrains\\Семинары\\С#\\Доп_задача\\Доп задача.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sevak\\OneDrive\\Рабочий стол\\GeekBrains\\Семинары\\С#\\Доп задача\\Доп задача.csproj": {
+    "C:\\Users\\sevak\\OneDrive\\Рабочий стол\\GeekBrains\\Семинары\\С#\\Доп_задача\\Доп задача.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sevak\\OneDrive\\Рабочий стол\\GeekBrains\\Семинары\\С#\\Доп задача\\Доп задача.csproj",
+        "projectUniqueName": "C:\\Users\\sevak\\OneDrive\\Рабочий стол\\GeekBrains\\Семинары\\С#\\Доп_задача\\Доп задача.csproj",
         "projectName": "Доп задача",
-        "projectPath": "C:\\Users\\sevak\\OneDrive\\Рабочий стол\\GeekBrains\\Семинары\\С#\\Доп задача\\Доп задача.csproj",
+        "projectPath": "C:\\Users\\sevak\\OneDrive\\Рабочий стол\\GeekBrains\\Семинары\\С#\\Доп_задача\\Доп задача.csproj",
         "packagesPath": "C:\\Users\\sevak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sevak\\OneDrive\\Рабочий стол\\GeekBrains\\Семинары\\С#\\Доп задача\\obj\\",
+        "outputPath": "C:\\Users\\sevak\\OneDrive\\Рабочий стол\\GeekBrains\\Семинары\\С#\\Доп_задача\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sevak\\AppData\\Roaming\\NuGet\\NuGet.Config"

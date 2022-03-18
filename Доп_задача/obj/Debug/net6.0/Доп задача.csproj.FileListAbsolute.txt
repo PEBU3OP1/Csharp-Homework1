@@ -28,3 +28,18 @@ C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\
 C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Доп задача\obj\Debug\net6.0\Доп задача.pdb
 C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Доп задача\obj\Debug\net6.0\Доп задача.genruntimeconfig.cache
 C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Доп задача\obj\Debug\net6.0\ref\Доп задача.dll
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Доп_задача\bin\Debug\net6.0\Доп задача.exe
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Доп_задача\bin\Debug\net6.0\Доп задача.deps.json
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Доп_задача\bin\Debug\net6.0\Доп задача.runtimeconfig.json
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Доп_задача\bin\Debug\net6.0\Доп задача.dll
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Доп_задача\bin\Debug\net6.0\Доп задача.pdb
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Доп_задача\obj\Debug\net6.0\Доп задача.csproj.AssemblyReference.cache
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Доп_задача\obj\Debug\net6.0\Доп задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Доп_задача\obj\Debug\net6.0\Доп задача.AssemblyInfoInputs.cache
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Доп_задача\obj\Debug\net6.0\Доп задача.AssemblyInfo.cs
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Доп_задача\obj\Debug\net6.0\Доп задача.csproj.CoreCompileInputs.cache
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Доп_задача\obj\Debug\net6.0\Доп задача.dll
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Доп_задача\obj\Debug\net6.0\refint\Доп задача.dll
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Доп_задача\obj\Debug\net6.0\Доп задача.pdb
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Доп_задача\obj\Debug\net6.0\Доп задача.genruntimeconfig.cache
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Доп_задача\obj\Debug\net6.0\ref\Доп задача.dll
