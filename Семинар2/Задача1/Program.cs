@@ -38,6 +38,6 @@ else{
    
 }
 
-Console.WriteLine("Введите число: ");
+Console.WriteLine("Введите 3 значное число: ");
 int num = Convert.ToInt32(Console.ReadLine());
 SecondNum(num);    
