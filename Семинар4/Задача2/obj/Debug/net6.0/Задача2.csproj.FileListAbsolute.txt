@@ -1,0 +1,15 @@
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар4\Задача2\bin\Debug\net6.0\Задача2.exe
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар4\Задача2\bin\Debug\net6.0\Задача2.deps.json
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар4\Задача2\bin\Debug\net6.0\Задача2.runtimeconfig.json
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар4\Задача2\bin\Debug\net6.0\Задача2.dll
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар4\Задача2\bin\Debug\net6.0\Задача2.pdb
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар4\Задача2\obj\Debug\net6.0\Задача2.csproj.AssemblyReference.cache
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар4\Задача2\obj\Debug\net6.0\Задача2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар4\Задача2\obj\Debug\net6.0\Задача2.AssemblyInfoInputs.cache
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар4\Задача2\obj\Debug\net6.0\Задача2.AssemblyInfo.cs
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар4\Задача2\obj\Debug\net6.0\Задача2.csproj.CoreCompileInputs.cache
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар4\Задача2\obj\Debug\net6.0\Задача2.dll
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар4\Задача2\obj\Debug\net6.0\refint\Задача2.dll
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар4\Задача2\obj\Debug\net6.0\Задача2.pdb
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар4\Задача2\obj\Debug\net6.0\Задача2.genruntimeconfig.cache
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар4\Задача2\obj\Debug\net6.0\ref\Задача2.dll
