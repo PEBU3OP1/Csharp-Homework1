@@ -1,0 +1,15 @@
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар11\bin\Debug\net6.0\Семинар11.exe
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар11\bin\Debug\net6.0\Семинар11.deps.json
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар11\bin\Debug\net6.0\Семинар11.runtimeconfig.json
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар11\bin\Debug\net6.0\Семинар11.dll
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар11\bin\Debug\net6.0\Семинар11.pdb
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар11\obj\Debug\net6.0\Семинар11.csproj.AssemblyReference.cache
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар11\obj\Debug\net6.0\Семинар11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар11\obj\Debug\net6.0\Семинар11.AssemblyInfoInputs.cache
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар11\obj\Debug\net6.0\Семинар11.AssemblyInfo.cs
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар11\obj\Debug\net6.0\Семинар11.csproj.CoreCompileInputs.cache
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар11\obj\Debug\net6.0\Семинар11.dll
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар11\obj\Debug\net6.0\refint\Семинар11.dll
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар11\obj\Debug\net6.0\Семинар11.pdb
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар11\obj\Debug\net6.0\Семинар11.genruntimeconfig.cache
+C:\Users\sevak\OneDrive\Рабочий стол\GeekBrains\Семинары\С#\Семинар11\obj\Debug\net6.0\ref\Семинар11.dll
