@@ -42,9 +42,9 @@ int[] FillingData(int sum)
     {
         Console.WriteLine($"Введите {i + 1} член массива data");
         data[i] = Convert.ToInt32(Console.ReadLine());
-        while (data[i] > 1 ||data[i] < 0)
+        while (data[i] > 1 || data[i] < 0)
         {
-            Console.WriteLine("Значение должно быть либо 1, либо 2!!!");
+            Console.WriteLine("Значение должно быть либо 1, либо 0!!!");
             Console.WriteLine($"Введите {i + 1} член массива data");
             data[i] = Convert.ToInt32(Console.ReadLine());
         }
